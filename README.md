@@ -30,7 +30,7 @@ Bem-vindo ao repositório da disciplina de **Back-End**, onde estão organizados
 
 | Projeto                       | Descrição                                              | Status    |
 |------------------------------|---------------------------------------------------------|-----------|
-| `projeto-cadastro-usuarios`  | Sistema simples de cadastro de usuários com React + API| ✅ Finalizado |
+| `implementacao-GET`  | Sistema simples de cadastro de usuários com React + API| ✅ Finalizado |
 
 ---
 
